@@ -3,3 +3,5 @@
 - orange juice
 - bread
 - butter
+- avocadoes
+- arugula
